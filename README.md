@@ -12,4 +12,4 @@
 - npm scripts: 
     - `npm run dev`: Starts the local Webpack dev server. The app will automatically reload in the browser when you save file changes,
 
-    - `npm run build`: Compiles and minifies the application for production. The final, optimized files will be generated in the dist folder, ready for deployment.
+    - `npm run build`: Compiles and minifies the application for production. The final, optimized files will be generated in the `dist` folder, ready for deployment.
